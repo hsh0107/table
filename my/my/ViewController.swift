@@ -71,4 +71,7 @@ class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate
             
         }
     }
+    
+    
+    func add(){}
 }
